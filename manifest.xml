@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adapt_framework>
+    <bundle>
+        <name>model_testing</name>
+        <version>0.0.1</version>
+        <type>application</type>
+        <namespace>/applications/model_testing</namespace>
+        <description></description>
+        <depends_on>
+            <bundle>forms</bundle>
+        </depends_on>
+    </bundle>
+</adapt_framework>
